@@ -1,0 +1,28 @@
+{
+  "archetype": "premium-brutalist",
+  "canvasUrl": "https://framer.com/projects/frm_593fe9bb/sakura-grandville-polished",
+  "wsChannel": "wss://framer.com/canvas/frm_593fe9bb",
+  "palette": {
+    "primary": "#A8201A",
+    "accent": "#2D482B",
+    "bg": "#F7F3E3",
+    "surface": "#F7F3E3",
+    "fg": "#222222"
+  },
+  "motion": {
+    "preset": "snap.cut",
+    "easing": "cubic-bezier(.2,.8,.2,1)",
+    "duration": 220,
+    "springs": [
+      "stiff",
+      "tight"
+    ]
+  },
+  "effects": [
+    "1px hairline grid",
+    "monospace meta labels",
+    "scroll-jacked sections",
+    "no shadows"
+  ],
+  "sourceDeploymentUrl": "https://sakura-grandville-2026-9ad6be82.vercel.app"
+}
