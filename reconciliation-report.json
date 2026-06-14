@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-06-14T00:49:02.697Z",
+  "overallConfidence": 0.413,
+  "integrityScore": 0,
+  "discrepancies": [
+    {
+      "field": "title",
+      "confidence": 0,
+      "matched": false,
+      "primary": "",
+      "secondary": "Must-Visit Steakhouse in Grandville, MI | Sakura",
+      "note": "title: weak agreement (0.00) — flagged"
+    },
+    {
+      "field": "navLinks",
+      "confidence": 0.06666666666666667,
+      "matched": false,
+      "primary": [
+        "Home",
+        "Menu",
+        "Reservations",
+        "About Us",
+        "Gallery",
+        "Contact"
+      ],
+      "secondary": [
+        "Menu",
+        "Drinks",
+        "Specials",
+        "Events",
+        "Facebook page",
+        "Instagram page",
+        "Order",
+        "Parties",
+        "Catering",
+        "Jobs"
+      ],
+      "note": "navLinks: weak agreement (0.07) — flagged"
+    },
+    {
+      "field": "productDescriptions",
+      "confidence": 0,
+      "matched": false,
+      "primary": [
+        "Sushi & Sashimi — Artfully prepared raw fish and seafood, showcasing fresh ingredients and traditional Japanese techniques.",
+        "Hibachi Grill — Interactive dining experience where skilled chefs prepare your meal right at your table with flair.",
+        "Kitchen Entrees — Classic Japanese cooked dishes, including teriyaki, tempura, and katsu.",
+        "Noodles & Rice — Comforting and flavorful noodle and rice dishes, from ramen to fried rice."
+      ],
+      "secondary": [
+        "Turn moments into memories!",
+        "Choose us for your next special occasion or get-together. — Got a birthday party, rehearsal dinner, corporate or other event coming up? We&apos;re a great option for your gathering! Inquire today and let us know how we can make your special occasion perfect!",
+        "We are taking online reservations!",
+        "Let’s ensure you get a great table: Book today! — We recommend making a reservation ahead of time. Book your table today!",
+        "Did you know we do catering?",
+        "Whatever your occasion, however big or small, we have the perfect options to choose from. — Cater your birthday party, holiday party, corporate events, wedding festivities and more!",
+        "Japanese Restaurant Grandville",
+        "Dine Together, Celebrate Together — Bring your group to Sakura for a culinary experience like no other. Our private dining options and tailored menus ensure every guest leaves happy.",
+        "Authentic Japanese Flavors To Go — Satisfy your cravings with Sakura&apos;s authentic Japanese flavors delivered straight to your door. Order online now and enjoy restaurant-quality dining at home!",
+        "Delicious Food, Friendly Staff Cozy Atmosphere & Positive Emotions!",
+        "Become part of a team that values hard work and great food",
+        "Review by - Google"
+      ],
+      "note": "productDescriptions: weak agreement (0.00) — flagged"
+    }
+  ],
+  "matches": [
+    {
+      "field": "description",
+      "confidence": 1,
+      "matched": true,
+      "primary": "",
+      "secondary": null,
+      "note": "description: exact agreement"
+    },
+    {
+      "field": "prices",
+      "confidence": 1,
+      "matched": true,
+      "primary": [],
+      "secondary": [],
+      "note": "prices: exact agreement"
+    }
+  ],
+  "primarySource": "firecrawl.v2",
+  "secondarySource": "lightscraper.fetch"
+}
