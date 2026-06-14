@@ -1,0 +1,65 @@
+{
+  "archetype": "premium-brutalist",
+  "archetypeLabel": "Premium Brutalist",
+  "palette": {
+    "primary": "#A8201A",
+    "accent": "#2D482B",
+    "bg": "#F7F3E3",
+    "surface": "#F7F3E3",
+    "fg": "#222222"
+  },
+  "typography": {
+    "display": "Noto Serif JP",
+    "body": "Open Sans",
+    "scaleRatio": 1.5,
+    "sizes": [
+      {
+        "token": "xs",
+        "px": 7
+      },
+      {
+        "token": "sm",
+        "px": 11
+      },
+      {
+        "token": "base",
+        "px": 16
+      },
+      {
+        "token": "md",
+        "px": 24
+      },
+      {
+        "token": "lg",
+        "px": 36
+      },
+      {
+        "token": "xl",
+        "px": 54
+      },
+      {
+        "token": "2xl",
+        "px": 81
+      },
+      {
+        "token": "display",
+        "px": 122
+      }
+    ]
+  },
+  "motion": {
+    "preset": "snap.cut",
+    "easing": "cubic-bezier(.2,.8,.2,1)",
+    "duration": 220,
+    "springs": [
+      "stiff",
+      "tight"
+    ]
+  },
+  "effects": [
+    "1px hairline grid",
+    "monospace meta labels",
+    "scroll-jacked sections",
+    "no shadows"
+  ]
+}
