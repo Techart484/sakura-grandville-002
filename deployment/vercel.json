@@ -1,0 +1,75 @@
+{
+  "deploymentId": "dpl_9ad6be82",
+  "projectName": "sakura-grandville-2026",
+  "framework": "Pure HTML/CSS",
+  "language": "HTML",
+  "stagingUrl": "https://sakura-grandville-2026-9ad6be82.vercel.app",
+  "inspectorUrl": "https://vercel.com/awde/sakura-grandville-2026/deployments/9ad6be82",
+  "deployedAt": "2026-06-14T00:49:21.993Z",
+  "modules": [
+    {
+      "id": "mod_7ce93208",
+      "slug": "products",
+      "displayName": "Products",
+      "itemCount": 4,
+      "fields": [
+        {
+          "slug": "name",
+          "name": "Name",
+          "type": "PlainText"
+        },
+        {
+          "slug": "description",
+          "name": "Description",
+          "type": "RichText"
+        },
+        {
+          "slug": "features",
+          "name": "Features",
+          "type": "RichText"
+        }
+      ]
+    },
+    {
+      "id": "mod_9dda927e",
+      "slug": "sections",
+      "displayName": "Page Sections",
+      "itemCount": 4,
+      "fields": [
+        {
+          "slug": "kind",
+          "name": "Kind",
+          "type": "Option"
+        },
+        {
+          "slug": "title",
+          "name": "Title",
+          "type": "PlainText"
+        },
+        {
+          "slug": "summary",
+          "name": "Summary",
+          "type": "RichText"
+        }
+      ]
+    },
+    {
+      "id": "mod_f373f029",
+      "slug": "nav-links",
+      "displayName": "Nav Links",
+      "itemCount": 6,
+      "fields": [
+        {
+          "slug": "label",
+          "name": "Label",
+          "type": "PlainText"
+        },
+        {
+          "slug": "order",
+          "name": "Order",
+          "type": "Number"
+        }
+      ]
+    }
+  ]
+}
