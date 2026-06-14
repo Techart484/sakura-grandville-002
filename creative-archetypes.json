@@ -1,0 +1,22 @@
+[
+  {
+    "sectionKey": "Our Menu",
+    "archetype": "asymmetric-feature",
+    "rationale": "services → asymmetric-feature"
+  },
+  {
+    "sectionKey": "About Sakura Grandville",
+    "archetype": "editorial-journal",
+    "rationale": "about → editorial-journal"
+  },
+  {
+    "sectionKey": "Our Culinary Creations",
+    "archetype": "product-spotlight",
+    "rationale": "gallery → product-spotlight"
+  },
+  {
+    "sectionKey": "Make a Reservation",
+    "archetype": "whitespace-manifesto",
+    "rationale": "cta → whitespace-manifesto"
+  }
+]
