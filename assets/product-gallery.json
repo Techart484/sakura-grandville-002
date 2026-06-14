@@ -1,0 +1,26 @@
+[
+  {
+    "productName": "Sushi & Sashimi",
+    "imageUrl": "",
+    "alt": "Sushi & Sashimi — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Hibachi Grill",
+    "imageUrl": "",
+    "alt": "Hibachi Grill — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Kitchen Entrees",
+    "imageUrl": "",
+    "alt": "Kitchen Entrees — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Noodles & Rice",
+    "imageUrl": "",
+    "alt": "Noodles & Rice — product photography",
+    "source": "fallback"
+  }
+]
